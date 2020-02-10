@@ -1,2 +1,1 @@
-This is my second testing file!
-Cool!
+2/10: This is a new added line!
