@@ -1,3 +1,0 @@
-2/10: This is Test04.txt!
-It created in Login branch.
-
